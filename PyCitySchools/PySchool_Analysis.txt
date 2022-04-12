@@ -1,0 +1,5 @@
+PySchool Analysis
+
+One conclusion is that charter schools do significantly better in both reading and math scores compared to those from district schools.
+
+Another conclusion is that scores decrease as spending per student increases.
